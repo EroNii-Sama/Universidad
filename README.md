@@ -10,9 +10,9 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Nur University and coding stuffs.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Java and MySQL.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Video Games Development as hobbies/side hustles.
 
 
 
@@ -34,11 +34,6 @@
 
 -->
 
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
 <hr>
 
