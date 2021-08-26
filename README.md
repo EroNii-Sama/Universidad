@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Saitam</h2>
+### Hi there 👋<h2> I'm EroNii Sama</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Saitam GitHub Stats](https://github-readme-stats.vercel.app/api?username=EroNii-Sama&show_icons=true)](https://github.com/EroNii-Sama)
+[![EroNii Sama GitHub Stats](https://github-readme-stats.vercel.app/api?username=EroNii-Sama&show_icons=true)](https://github.com/EroNii-Sama)
 
 <br/>
 
